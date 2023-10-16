@@ -2,10 +2,10 @@
 ​
 ## Задание 2:
 ​
-* ![Скриншот1](https://postimg.cc/1fy9Xf5j)
-* ![Скриншот2](https://postimg.cc/Czygt72D)
+* ![Скриншот1](./pictures/screenshot1.jpg)
+* ![Скриншот2](./pictures/screenshot2.jpg)
 ​
 ## SQL Задание2: 
 ​
-* ![Скриншот1](https://postimg.cc/JyQyXdvx)
+* ![Скриншот1](./pictures/sql.jpg)
 ​
